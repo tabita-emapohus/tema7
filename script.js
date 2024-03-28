@@ -35,5 +35,12 @@ function mySolarSystem() {
     //planeta5
     fill("lightorange");
     circle(340,235,48,48);
+        //soare
+    fill("yellow");
+    stroke("orange");
+    circle(680,310,100,100);
+    stroke("orange");
+    strokeWeight(4);
+
 
 }
